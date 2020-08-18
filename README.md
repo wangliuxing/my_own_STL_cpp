@@ -15,11 +15,11 @@ In this code, class Object is the base class, which reloads keywords of new and 
 			      ↖      ↗  
 		                LinkList               DualList  →  DualCircleList
 					  ↖      ↗
-	          Dynamic_array	             List	       Shared_ptr
-                                 ↖           ↑           ↗	
+	          Dynamic_array	             List	         Shared_ptr
+                               ↖             ↑             ↗	
 			           Array  ← Object → Pointer   
-                                 ↙           ↓           ↘
-	           Static_array    	     Vector	      Smart_ptr
+                               ↙             ↓             ↘
+	           Static_array    	     Vector	        Smart_ptr
                                          ↙       ↘
                             Static_vector            Dynamic_vector
 
