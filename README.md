@@ -1,7 +1,11 @@
 # my_own_STL_cpp
 This STL Does not depend on any standard library, which means that codes can be reused in any circumstance.
+
 The code, as a part of my practice, is achieved by c++. The whole relationship is shown in the readme.md.
+
 In this code, class Object is the base class, which reloads keywords of new and delete.
+
+On the other hand, some algorithms are uploaded to the library, including KMP,sort,and so on.
 
 
              StaticQueue    Search_tree  ←  Tree   →   Ave_tree     StaticStack
